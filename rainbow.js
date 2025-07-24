@@ -3,7 +3,7 @@ let angle = 0;
 function onframe() {
     console.log("hello world")
 
-    angle += .1
+    angle += .15
     let angle2 = angle * 1.5;
     // let rotation = 0
     document.body.style =
